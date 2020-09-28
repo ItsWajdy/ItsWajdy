@@ -8,7 +8,7 @@ My name is Wajdy and I am an AI engineer with passion for machine learning and c
 - 📫 How to reach me: [email me](itswajdy@gmail.com)
 
 
-### Technologies and Tools:
+### Technologies and Tools 💻
 ![](https://img.shields.io/static/v1?label=&message=Python&style=flat-square&logo=python&color=white)
 ![](https://img.shields.io/static/v1?label=&message=TensorFlow&style=flat-square&logo=tensorflow&color=white)
 ![](https://img.shields.io/static/v1?label=&message=Keras&style=flat-square&logo=keras&color=white&logoColor=D00000)
