@@ -10,7 +10,8 @@ My name is Wajdy and I am an AI engineer with passion for machine learning and c
 
 ### Technologies and Tools:
 ![](https://img.shields.io/static/v1?label=&message=Python&style=flat-square&logo=python&color=white)
-![](https://img.shields.io/static/v1?label=&message=Tensorflow&style=flat-square&logo=tensorflow&color=white)
+![](https://img.shields.io/static/v1?label=&message=TensorFlow&style=flat-square&logo=tensorflow&color=white)
+![](https://img.shields.io/static/v1?label=&message=Keras&style=flat-square&logo=keras&color=white&logoColor=D00000)
 ![](https://img.shields.io/static/v1?label=&message=Pandas&style=flat-square&logo=pandas&color=white&logoColor=130654)
 ![](https://img.shields.io/static/v1?label=&message=Docker&style=flat-square&logo=docker&color=white)
 ![](https://img.shields.io/static/v1?label=&message=Java&style=flat-square&logo=java&color=white&logoColor=007396)
