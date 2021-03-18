@@ -2,10 +2,10 @@
 
 My name is Wajdy and I am an AI engineer with passion for machine learning and computer vision, among other things.
 
-- 🔭 I’m currently working as a data scientist at MTN Syria
+- 🔭 I ~~am currently working~~ used to work as a data scientist at MTN Syria
 - 🌱 I’m currently learning flutter
 - 💬 Feel free to talk to me about any of the repositories I have here
-- 📫 How to reach me: [email me](itswajdy@gmail.com)
+- 📫 How to reach me: [email me](mailto:itswajdy@gmail.com)
 
 
 ### Technologies and Tools 💻
@@ -20,6 +20,7 @@ My name is Wajdy and I am an AI engineer with passion for machine learning and c
 ![](https://img.shields.io/static/v1?label=&message=OracleSQL&style=flat-square&logo=oracle&color=white&logoColor=f80000)
 ![](https://img.shields.io/static/v1?label=&message=git&style=flat-square&logo=git&color=white)
 ![](https://img.shields.io/static/v1?label=&message=GitHub&style=flat-square&logo=github&color=white&logoColor=black)
+![](https://img.shields.io/static/v1?label=&message=GitLab&style=flat-square&logo=gitlab&color=white)
 
 
 ### GitHub Stats 📈
