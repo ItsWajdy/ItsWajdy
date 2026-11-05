@@ -1,0 +1,5 @@
+# Settings: https://github.com/pedrocatalao/github-cool-readme#settings
+user: ItsWajdy
+include:
+  private: true
+  orgs: true
